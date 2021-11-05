@@ -79,11 +79,11 @@ public class Sale {
 		this.date = date;
 	}
 
-	public Seller getseller() {
+	public Seller getSeller() {
 		return seller;
 	}
 
-	public void setseller(Seller seller) {
+	public void setSeller(Seller seller) {
 		this.seller = seller;
-	}	
+	}
 }
